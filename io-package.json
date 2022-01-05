@@ -1,0 +1,76 @@
+{
+	"common": {
+		"name": "test_adapter_ok",
+		"version": "0.0.1",
+		"news": {
+			"0.0.1": {
+				"en": "initial release",
+				"de": "Erstveröffentlichung",
+				"ru": "Начальная версия",
+				"pt": "lançamento inicial",
+				"nl": "Eerste uitgave",
+				"fr": "Première version",
+				"it": "Versione iniziale",
+				"es": "Versión inicial",
+				"pl": "Pierwsze wydanie",
+				"zh-cn": "首次出版"
+			}
+		},
+		"title": "TestOK",
+		"titleLang": {
+			"en": "TestOK",
+			"de": "TestOK",
+			"ru": "TestOK",
+			"pt": "TestOK",
+			"nl": "TestOK",
+			"fr": "TestOK",
+			"it": "ProvaOK",
+			"es": "TestOK",
+			"pl": "Test OK",
+			"zh-cn": "测试OK"
+		},
+		"desc": {
+			"en": "Test Adapter",
+			"de": "Testadapter",
+			"ru": "Тестовый адаптер",
+			"pt": "Adaptador de Teste",
+			"nl": "Testadapter",
+			"fr": "Adaptateur d'essai",
+			"it": "Adattatore di prova",
+			"es": "Adaptador de prueba",
+			"pl": "Testuj adapter",
+			"zh-cn": "测试适配器"
+		},
+		"authors": [
+			"okeck1982 <okeck-computer@gmx.de>"
+		],
+		"keywords": [
+			"Testing"
+		],
+		"license": "MIT",
+		"platform": "Javascript/Node.js",
+		"main": "main.js",
+		"icon": "test_adapter_ok.png",
+		"enabled": true,
+		"extIcon": "https://raw.githubusercontent.com/okeck1982/ioBroker.test_adapter_ok/main/admin/test_adapter_ok.png",
+		"readme": "https://github.com/okeck1982/ioBroker.test_adapter_ok/blob/main/README.md",
+		"loglevel": "info",
+		"mode": "daemon",
+		"type": "hardware",
+		"compact": true,
+		"connectionType": "local",
+		"dataSource": "push",
+		"materialize": true,
+		"dependencies": [
+			{
+				"js-controller": ">=2.0.0"
+			}
+		]
+	},
+	"native": {
+		"option1": true,
+		"option2": "42"
+	},
+	"objects": [],
+	"instanceObjects": []
+}
