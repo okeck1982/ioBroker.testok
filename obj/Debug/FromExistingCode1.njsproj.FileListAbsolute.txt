@@ -1,0 +1,3 @@
+C:\Users\okeck\source\repos\NodeAdapterTest\ioBroker.test_adapter_ok\obj\Debug\FromExistingCode1.njsproj.AssemblyReference.cache
+C:\Users\okeck\source\repos\NodeAdapterTest\ioBroker.test_adapter_ok\obj\Debug\FromExistingCode1.njsproj.CoreCompileInputs.cache
+C:\Users\okeck\source\repos\NodeAdapterTest\ioBroker.test_adapter_ok\bin\Microsoft.NodejsTools.WebRole.dll
